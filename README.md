@@ -16,7 +16,7 @@ This outlines the setup and usage of the Strapi API locally for the Frontend Ass
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/DigiFly-Development/Frontend-Assessment-Backend.git
+   git clone https://github.com/DigiFly-Development/Flutter-Assessment-Backend.git
    ```
 2. **Navigate to the project directory:**
    ```
