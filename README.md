@@ -1,7 +1,3 @@
-Certainly! Here's a README file tailored to your specific Strapi API endpoints:
-
----
-
 # Strapi API for Flutter - Assessment
 
 ## Overview
